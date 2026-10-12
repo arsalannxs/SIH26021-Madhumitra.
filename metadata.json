@@ -1,0 +1,6 @@
+{
+  "name": "Madhumitra — Honey Traceability & Smart Beekeeping",
+  "description": "Blockchain-inspired honey traceability, IoT hive monitoring, quality verification and beekeeper platform for Smart India Hackathon (SIH26021).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
